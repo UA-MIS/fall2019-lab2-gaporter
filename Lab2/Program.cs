@@ -11,7 +11,7 @@ namespace Lab2
         static void Main(string[] args)
         {
             //Starter code for lab 2
-
+            
 
         }
     }
